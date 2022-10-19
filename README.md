@@ -1,8 +1,8 @@
 # WESCANNER
 
 Members <br>
-Backend : 정지민<br>
-Frontend : 김보미, 우혜림, 신지훈<br>
+Backend : [정지민](https://github.com/jiminnote) <br>
+Frontend : [김보미](https://github.com/rlaqhalx), [우혜림](https://github.com/wooohyerim), [신지훈](https://github.com/jihoon8730)<br>
 
 ## About
 
